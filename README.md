@@ -1,15 +1,9 @@
-<p align="center">
-	<a href="https://gitmoji.carloscuesta.me">
-		<img src="git_emoji.gif" width="456" alt="gitmoji">
-	</a>
-</p>
-
 # git emoji
-==================
+
 
 Introduction
 -----
-Git提供了emoj的功能，在一条commit信息的开头加上各种各样的emoji可以清楚的了解到该commit的主要改动类型
+Git提供了emoji的功能，在一条commit信息的开头加上各种各样的emoji可以清楚的了解到该commit的主要改动类型
 
 Format
 -----
